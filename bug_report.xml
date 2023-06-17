@@ -1,1 +1,10 @@
-
+<?xml version="1.0" encoding="windows-1251"?>
+<report Number="4" Date="2023-06-17">
+    <id>1</id>
+    <Severity>Trivial</Severity>
+    <Environment>Samsung S23, Android 13</Environment>
+    <Tiktok>Button Page do not exists</Tiktok>
+    <Expected_Result>redirect to the right page Tiktok</Expected_Result>
+    <Actual_Result>net::ERR_UNKNOWN_URL_SCHEME</Actual_Result>
+    <Bug_started>Linkolnfett</Bug_started>
+</report>
