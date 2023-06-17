@@ -1,11 +1,7 @@
-<?xml version="1.0"?>
-<newXML Number="1" Date="2023-06-17"> 
- <Name>Skorik Pavel Sergeevich</Name>
- <Age>34</Age>
- <Pets>1</Pets>
- <Salary_requirement>700-900</Salary_requirement>
+<?xml version="1.0" encoding="windows-1251"?>
+<newXML Number="1" Date="2023-06-17">
+    <Name>Skorik Pavel Sergeevich</Name>
+    <Age>34</Age>
+    <Pets>1</Pets>
+    <Salary_requirement>700-900</Salary_requirement>
 </newXML>
-
-
-
-
