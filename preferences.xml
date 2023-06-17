@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<newXML Number="2" Date="2023-06-17">
+    <Favorite>
+        <movie>Star Wars</movie>
+        <series>Scrubs</series>
+        <food>Okroshka</food>
+        <season>Summer</season>
+    </Favorite>
+    <Country_Id_like_to_visit>China</Country_Id_like_to_visit>
+</newXML>
