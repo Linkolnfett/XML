@@ -2,9 +2,13 @@
 <report Number="4" Date="2023-06-17">
     <id>1</id>
     <Severity>Trivial</Severity>
-    <Environment>Samsung S23, Android 13</Environment>
-    <Tiktok>Button Page do not exists</Tiktok>
-    <Expected_Result>redirect to the right page Tiktok</Expected_Result>
-    <Actual_Result>net::ERR_UNKNOWN_URL_SCHEME</Actual_Result>
-    <Bug_started>Linkolnfett</Bug_started>
+    <Environment>Xiaomi Redmi Note 8 Pro, Android 10</Environment>
+    <Title>Universe card name on Universes screen is not translated on JA/ZH language</Title>
+    <Expected_Result>Universe card name is translated</Expected_Result>
+    <Actual_Result>Universe card name is not translated</Actual_Result>
+    <Bug_started>@Linkolnfett</Bug_started>
 </report>
+
+
+
+
